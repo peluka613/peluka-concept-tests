@@ -1,0 +1,6 @@
+
+:squid:S1643"Use a StringBuilder instead.(†³Ë8ˆ„™¿Æ-
+W"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(şû¶“8ù‹ı¾Æ-
+isquid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(şû¶“8ù‹ı¾Æ-
+qsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(şºü’üÿÿÿÿ8˜™§ÅÆ-
+:squid:S1643)"Use a StringBuilder instead.(Ø†ş¯8ÖŞµ¾Æ-

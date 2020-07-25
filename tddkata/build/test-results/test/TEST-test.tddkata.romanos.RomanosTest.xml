@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.tddkata.romanos.RomanosTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2019-08-06T21:54:50" hostname="CO-IT00649" time="0.005">
+  <properties/>
+  <testcase name="convertir01ARomanosTest" classname="test.tddkata.romanos.RomanosTest" time="0.001"/>
+  <testcase name="convertirMilesARomanosTest" classname="test.tddkata.romanos.RomanosTest" time="0.0"/>
+  <testcase name="convertir07a09ARomanosTest" classname="test.tddkata.romanos.RomanosTest" time="0.0"/>
+  <testcase name="convertirDecenasARomanosTest" classname="test.tddkata.romanos.RomanosTest" time="0.0"/>
+  <testcase name="convertir10a19ARomanosTest" classname="test.tddkata.romanos.RomanosTest" time="0.0"/>
+  <testcase name="convertir20a29ARomanosTest" classname="test.tddkata.romanos.RomanosTest" time="0.001"/>
+  <testcase name="convertir06ARomanosTest" classname="test.tddkata.romanos.RomanosTest" time="0.0"/>
+  <testcase name="convertir05ARomanosTest" classname="test.tddkata.romanos.RomanosTest" time="0.0"/>
+  <testcase name="convertir04ARomanosTest" classname="test.tddkata.romanos.RomanosTest" time="0.0"/>
+  <testcase name="convertirCentenasARomanosTest" classname="test.tddkata.romanos.RomanosTest" time="0.0"/>
+  <testcase name="convertir03ARomanosTest" classname="test.tddkata.romanos.RomanosTest" time="0.0"/>
+  <testcase name="convertir02ARomanosTest" classname="test.tddkata.romanos.RomanosTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

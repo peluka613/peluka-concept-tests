@@ -1,0 +1,30 @@
+
+isquid:CommentedOutCodeLine4"<This block of commented-out lines of code should be removed.(èø‘Ò8“Îó¯¶-
+asquid:S1854"CRemove this useless assignment to local variable "funcEmpToString".(Ëë¥»8À£ó¯¶-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ä§À’µ-
+[squid:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8Ã±›µ-
+V
+squid:S106Z"9Replace this use of System.out or System.err by a logger.(—„ÓÔ8æú‰°¶-
+nsquid:CommentedOutCodeLine+"<This block of commented-out lines of code should be removed.(¿ÑÖªûÿÿÿÿ8“Îó¯¶-
+csquid:S1854"@Remove this useless assignment to local variable "employeeList".(Âƒ¶¡ûÿÿÿÿ8‚Å†°¶-
+isquid:CommentedOutCodeLine#"<This block of commented-out lines of code should be removed.(¹šô8üå†°¶-
+isquid:CommentedOutCodeLineF"<This block of commented-out lines of code should be removed.(‹şÃ¨8“Îó¯¶-
+ysquid:S4276U"[Refactor this code to use the more specialised Functional Interface 'UnaryOperator<Double>'(Øë€É8ø‡°¶-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ä§À’µ-
+Tsquid:S1481"1Remove this unused "employeeList" local variable.(Âƒ¶¡ûÿÿÿÿ8‚Å†°¶-
+nsquid:CommentedOutCodeLineL"<This block of commented-out lines of code should be removed.(à·Î…øÿÿÿÿ8“Îó¯¶-
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(èø‘Ò8‚Å†°¶-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ä§À’µ-
+V
+squid:S106Y"9Replace this use of System.out or System.err by a logger.(Ûû¾8æú‰°¶-
+[
+squid:S106g"9Replace this use of System.out or System.err by a logger.(½ø”Óüÿÿÿÿ8“Îó¯¶-
+ysquid:S4276T"[Refactor this code to use the more specialised Functional Interface 'UnaryOperator<Double>'(™³ÛÅ8ø‡°¶-
+Rsquid:S1481"4Remove this unused "funcEmpToString" local variable.(Ëë¥»8À£ó¯¶-
+V
+squid:S106["9Replace this use of System.out or System.err by a logger.(ËÄÕé8ø‡°¶-
+isquid:CommentedOutCodeLine9"<This block of commented-out lines of code should be removed.(İáë8“Îó¯¶-
+nsquid:CommentedOutCodeLinev"<This block of commented-out lines of code should be removed.(ìá§œüÿÿÿÿ8“Îó¯¶-

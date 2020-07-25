@@ -1,0 +1,9 @@
+
+isquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 54 to the 15 allowed.(¾ˆ£Á
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¹á“Èúÿÿÿÿ
+bsquid:CommentedOutCodeLine_"<This block of commented-out lines of code should be removed.(ñÝîÍ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÙŒÉ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(åØ—úÿÿÿÿ

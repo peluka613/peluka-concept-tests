@@ -1,0 +1,19 @@
+
+Usquid:S3655 "7Call "Optional#isPresent()" before accessing the value.(ÚöÕ8¬Æ‚³¶-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Öø¦›ùÿÿÿÿ8éÕê²¶-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(µ½é–8éÕê²¶-
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(€¯À
+Rsquid:S1066"/Merge this if statement with the enclosing one.(ÏÚŞÉûÿÿÿÿ8Óí‚³¶-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(–ã¹Ø8Ó¼Ÿ³¶-
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Â—Ç”ûÿÿÿÿ8ç˜ ³¶-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(¯£Éüûÿÿÿÿ8Ó¼Ÿ³¶-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(˜³ê„şÿÿÿÿ8éÕê²¶-
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(Üæƒh8éÕê²¶-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(•±¾Äùÿÿÿÿ8éÕê²¶-

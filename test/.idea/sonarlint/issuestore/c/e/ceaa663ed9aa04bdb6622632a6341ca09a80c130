@@ -1,0 +1,8 @@
+
+nsquid:S00117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ïğ¨Àÿÿÿÿÿ
+squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÆÓ×’ıÿÿÿÿ
+_squid:S2583"CChange this condition so that it does not always evaluate to "true"(”«Âúÿÿÿÿ
+˜squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(£ÍŒ¨
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(™é·ğÿÿÿÿÿ
